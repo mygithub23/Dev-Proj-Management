@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://projectadmin:javascript@cluster0.o4nz7.mongodb.net/projectsmanager?retryWrites=true&w=majority"
+
+}
